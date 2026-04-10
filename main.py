@@ -15,5 +15,7 @@ if __name__ == '__main__':
     asdads
     asdsad
     ddsdsda
+    x = 13
+    y = 12
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
