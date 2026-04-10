@@ -27,5 +27,9 @@ if __name__ == '__main__':
     asdasd
     sdasd
     sdsd
+    sdsad
+    dsds
+    dsds
+    ds
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
