@@ -14,24 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     x = 13
     y = 12
-    aaaaaaaaaa
-    aaaaaaa
-    bbbbb
-    bbbbbb
-    bbbb
-    ccc
-    asdasd
-    asdasd
-    sdasd
-    sdsd
-    sdsad
-    dsds
-    dsds
-    ds
-    sdasdddd
-    sdsad
-    dsds
-    dsds
-    ds
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
