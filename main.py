@@ -11,19 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-    asdads
-    asdsad
-    ddsdsda
-    x = 13
-    y = 12
-    asdasd
-    asdasd
-    sdasd
-    sdsd
-    sdsad
-    dsds
-    dsds
-    ds
+    print_hi('Hello world')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
